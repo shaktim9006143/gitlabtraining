@@ -1,0 +1,106 @@
+    1  cd C:\Users\shaktidhara_muduli\Downloads\GitTraning
+    2  pwd
+    3  git clone https://github.com/shaktim9006143/gitlabtraining.git
+    4  ls
+    5  cd gitlabtraining/
+    6  ls
+    7  ll
+    8  ls -la
+    9  git init
+   10  git status
+   11  git add README.md
+   12  git add README.md
+   13  touch README.md
+   14  git add README.md
+   15  git status
+   16  git commit README.md
+   17  git commit -m "first commit"
+   18  ls
+   19  git push origin master
+   20  touch vi.ms
+   21  git status
+   22  git commit
+   23  git commit -m "adding vi.ms file"
+   24  git add
+   25  git add .
+   26  git status
+   27  git commit
+   28  ls
+   29  git sattus
+   30  git status
+   31  git push 
+   32  git push https://github.com/shaktim9006143/gitlabtraining.git/
+   33  git push
+   34  ssh-keygen -t rsa -C shaktim9006143@gmail.com
+   35  ls
+   36  history
+   37  history >> command
+   38  history >> command.txt
+   39  cat command.txt
+   40  clip <~/.ssh/id_rsa.pub
+   41  git clone git@github.com:shaktim9006143/gitlabtraining.git
+   42  ls
+   43  git status
+   44  git add .
+   45  git
+   46  git status
+   47  git commit -m "added files"
+   48  git status
+   49  git push origin/master
+   50  git config --global shaktim9006143@gmail.com
+   51  history
+   52  git config --global shaktim9006143@gmail.com "shakti"
+   53  git config --global user.name "shakti"
+   54  git config --global user.email "shaktim9006143@gmail.com"
+   55  git clone git@github.com:shaktim9006143/gitlabtraining.git
+   56  touch apple.txt
+   57  git status
+   58  git add apple.txt
+   59  git status
+   60  git commit -m "apple.txt"
+   61  git push 
+   62  exit
+   63  git status
+   64  git push
+   65  git push -u
+   66  git clone git@github.com:shaktim9006143/gitlabtraining.git
+   67  git push origin master
+   68  git init
+   69  git init
+   70  git push
+   71  git init
+   72  git
+   73  git push
+   74  git fetch
+   75  git push
+   76  git pull
+   77  git status
+   78  git push origin/master
+   79  exit
+   80  git push
+   81  touch ms.ms
+   82  git add ms.ms
+   83  git commit -m "ms.ms"
+   84  git status
+   85  git push 
+   86  git branch
+   87  cls
+   88  clear
+   89  git branch
+   90  git
+   91  git branch create dev
+   92  git branch create geature
+   93  git branch
+   94  git branch dev
+   95  git branch featuer
+   96  git checkout dev
+   97  touch nanao.txt
+   98  git add nano.txt
+   99  git commit -m "ano"
+  100  git push
+  101  git push
+  102  git push --set-upstream origin dev
+  103  git branch
+  104  git
+  105  history
+  106  history > gitcommand.txt
